@@ -1,7 +1,4 @@
-/*!
-* Copyright 2013-2022 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
-*/
+
 
 
 var db = openDatabase("lemartDB", "1.0", "lemartDB", 65535);
